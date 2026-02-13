@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Frontend Intern", "company": "Acme Corp", "location": "Remote", "type": "Internship" },
+  { "id": 2, "title": "Full Stack Developer", "company": "TechFlow", "location": "New York", "type": "Full-time" },
+  { "id": 3, "title": "React Engineer", "company": "CyberDyne", "location": "Remote", "type": "Full-time" },
+  { "id": 4, "title": "Junior Web Developer", "company": "Global Solutions", "location": "London", "type": "Internship" },
+  { "id": 5, "title": "UI Designer", "company": "Creative Minds", "location": "San Francisco", "type": "Full-time" }
+]
